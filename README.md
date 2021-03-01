@@ -8,7 +8,7 @@
 
 <br>
 
-<h3> ⚙️ Bibliotecas<h3>
+<h3> ⚙️ Bibliotecas</h3>
 <p> Foram utilizadas as bibliotecas:
   Discord.py<br>
   PycoinGecko<br>
