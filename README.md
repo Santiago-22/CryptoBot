@@ -8,8 +8,8 @@
 
 <br>
 
-<h3> ⚙️ Bibliotecas</h3>
-<p> Foram utilizadas as bibliotecas:
+<h3> 📚 Bibliotecas</h3>
+<p> Foram utilizadas as bibliotecas:<br>
   Discord.py<br>
   PycoinGecko<br>
   Datetime<br>
