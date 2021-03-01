@@ -12,8 +12,9 @@
 <p> Foram utilizadas as bibliotecas:<br>
   Discord.py<br>
   PycoinGecko<br>
-  Datetime<br>
-  🐍 Esse projeto foi feito 100% em Python 🐍 <p>
+  Datetime<br><p>
+ 
+ <h5>🐍 Esse projeto foi feito 100% em Python 🐍 <h5>
 
 
 
